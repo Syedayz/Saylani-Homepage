@@ -1,0 +1,886 @@
+
+
+
+body{
+    background-color: whitesmoke;
+    
+}
+
+
+
+.icons{
+    background-color:#316dc3;
+    color:white;
+    padding-top: 5px;
+    text-align: center;
+    font-size: medium;  
+    padding-bottom: 7px;
+   
+}
+
+.millions{
+    float: left;
+    margin-left: 15%;
+}
+
+.fb{
+    float: left;
+    padding: 4px;
+    width: 30px;
+    margin-left: 5%;
+}
+.others{
+    float: left;
+    padding: 4px;
+    width: 30px;
+}
+
+.icons button{
+    padding-bottom: 4px;
+    padding-top: 4px;
+    cursor: pointer;
+    font-size: small; 
+}
+.nav-link{
+    background-color: #316dc3;
+    border-radius: 2cm;
+}
+
+.nav-item{
+    margin-left: 6%;
+    
+}
+.dropdown-menu a:hover{
+    background-color: cadetblue;
+}
+#navbarSupportedContent a{
+    color: white;
+    
+}
+
+
+div.saylani{
+    width: 100%;
+}
+.line{
+    font-size: medium;
+    background-color:#316dc3 ;
+    color: white;
+    margin-left: 10%;
+    padding: 5px 5px 5px 5px;
+    margin-right: 10%;
+    text-align: center;
+}
+.blue{
+    color: #316dc3;
+    font-weight: bold;
+    font-size: xx-large;
+    
+}
+.green{
+    color: green;
+    font-weight: bold;
+    font-size: xx-large;
+    
+}
+.green1{
+    font-size: medium;
+    color: lightgreen;
+}
+h1{
+    text-align: center;
+}
+
+
+
+.p1{
+    font-size: large;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: gray; 
+}
+.lightgreen{
+    color: yellowgreen;
+    font-size: small;
+}
+.numbers{
+
+    background-color: #316dc3;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+} 
+.div1,.div2,.div3,.div4{
+    display: inline-block;
+    width: 20%;
+}
+.div1{
+    margin-left: 13%;
+    
+}
+
+
+.numbers img{
+    width: 15%;
+    margin-left: 34%;
+}
+.num{
+    font-size: 300%;
+    padding-left: 17%;
+
+}
+.text{
+    margin-left: 5%;
+    font-size: medium;
+}
+h2{
+    text-align: center;
+}
+.doing {
+    margin-left: 14%;
+    
+
+}
+.activity1{
+    background-color:white;
+    display: inline-block;
+    font-size: x-large;
+    padding-left: 6%;
+    padding-top: 5%;
+    padding-right: 6%;
+    padding-bottom: 5%;
+    margin-left: 2%;
+    text-align: center;
+    border-style: groove groove;
+    border-color:whitesmoke;
+    border-width: thin;
+    box-shadow:2px 2px 15px grey;
+    
+}
+
+.activity2{
+    background-color:white;
+    display: inline-block;
+    font-size: x-large;
+    padding-left: 9%;
+    padding-top: 5%;
+    padding-right: 9%;
+    padding-bottom: 5%;
+    margin-left: 2%;
+    text-align: center;
+    border-style: groove groove;
+    border-color:whitesmoke;
+    border-width: thin;
+    box-shadow:2px 2px 15px grey;
+
+}
+
+.activity3{
+    background-color:white;
+    display: inline-block;
+    font-size: x-large;
+    padding-left: 7%;
+    padding-top: 5%;
+    padding-right: 7%;
+    padding-bottom: 5%;
+    margin-left: 2%;
+    text-align: center;
+    border-style: groove groove;
+    border-color:whitesmoke;
+    border-width: thin;
+    box-shadow:2px 2px 15px grey;
+}
+.activity4{
+    background-color:white;
+    display: inline-block;
+    font-size: x-large;
+    padding-left: 8%;
+    padding-top: 5%;
+    padding-right: 8%;
+    padding-bottom: 5%;
+    margin-left: 2%;
+    text-align: center;
+    border-style: groove groove;
+    border-color:whitesmoke;
+    border-width: thin;
+    box-shadow:2px 2px 15px grey;
+}
+.mission{
+    font-size: x-large;
+    padding-left: 15%;
+    color: #316dc3;
+    background-color: lavender;
+    padding-top: 3%;
+    font-weight: bold;
+    width: 70%;
+    padding-bottom: 4%;
+}
+.hepatitis{
+    font-size: large;
+    font-weight: lighter;
+    color: #316dc3;
+    border-style: groove groove;
+    border-width: thin;
+    width: 40%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 1%;
+    display: inline-block;
+    background-color:lightcyan;
+    padding-left: 3%;
+}
+.events,.mission{
+    display: inline-block;
+}
+.events{
+    float: right;
+    padding-right: 7%;
+    font-size: x-large;
+    padding-top: 3%;
+    padding-left: 2%;
+    color: #316dc3;
+    background-color:lightcyan;
+    font-weight: bold;
+    width: 30%;
+    padding-bottom: 1.5%;
+
+    
+}
+.texting{
+    font-weight: lighter;
+    color: black;
+    font-size: medium;
+}
+
+.imagegallery {
+    width: 15%;
+    margin-left: 3px; 
+}
+.imagegallery:hover{
+    opacity: 0.7;
+}
+.gallery {
+    margin-left: 16%;
+}
+
+h3{
+    text-align: center;
+}
+.Head{
+    background-color:lightgrey;
+    
+}
+.phone img{
+    width: 3%;
+
+}
+.phone,.links,.connect{
+    display: inline-block;
+}
+.links{
+    font-size: x-large;
+    font-weight: bold;
+    color:black;
+    display: inline-flex;
+    width: 25%;     
+}
+.greenline{
+    line-height: 0rem;
+    color: green;
+}
+
+.phone{
+    padding-left: 15%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    display: inline-block;
+    width: 45%;
+
+}
+
+.connect{
+    font-size: x-large;
+    font-weight: bold;
+    color:black; 
+    display: inline-block;  
+}
+.connect img{
+    width: 30px;
+    border-radius: 2cm;
+}
+.last{
+    background-color: #316dc3;
+    color: white;
+    padding-left: 12%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: small;
+    
+}
+.arrow{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 50px; 
+    margin-right: 5%; 
+      
+}
+
+
+@media only screen and (max-width: 900px){
+    body{
+        background-color: whitesmoke;
+        
+    }
+    .navbar-toggler{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .navbar-brand img{
+        width: 70%;
+        display: block;
+        margin-left:auto; 
+        margin-right: auto;
+   
+    }
+    .dropdown-menu{
+        width: 100%;
+        
+    }
+    
+    .p1{
+        text-align: justify;
+    }
+    .nav-link{
+        background-color: #316dc3;
+        max-width: 100%;
+        border-radius: 1cm;
+        
+        
+    }
+    
+    .nav-item{
+        margin-left: 0;
+    }
+
+    #navbarSupportedContent a{
+        color: white;
+        padding-left: 5%;
+        
+    }
+    
+    .icons{
+        padding-top: 5px;
+        padding-bottom: 7px;
+        text-align: center;
+    
+    }
+    
+    .fb {
+        padding: 4px;
+        margin-left: 20%;
+    }
+    
+    .millions{
+        float: left;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-right: 5%;
+    }
+    .others{
+        padding: 4px;
+        max-width: 35px;
+        margin-left: 4%;
+    }
+    .numbers div{
+        display: inline-block;
+        margin-right: 5%;
+    }
+    
+    
+    .div3{
+        
+        margin-left: 15%;
+    }
+    .div2,.div4{
+        margin-left: 43%;
+    }
+
+    .numbers img{
+        width: 45%;
+        margin-left: 10%;
+    }
+    .num{
+        font-size: 150%;
+        padding-left: 7%;
+    
+    }
+    .text{
+        margin-left: 5%;
+        font-size: medium;
+    }
+    .activity1,.activity2,.activity4{
+        width: 90%;
+        margin-top: 12%;
+
+    }
+    .doing{
+        margin-left: 6%;
+    }
+    .activity3{
+        width:90% ;
+    }
+    .mission{
+        width: 100%;
+        padding-left: 2%;
+    }
+    .hepatitis{
+        width: 95%;
+        margin-top: 3%;
+    }
+    .events{
+        float: left;
+        width: 100%;
+    }
+    .gallery img{
+        width: 70%;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .phone{
+        width: 100%;
+    }
+    .phone img{
+        width: 5%;
+    }
+    .links{
+        margin-left:15%;
+        width: 100%;
+        text-decoration: underline;
+        
+    }
+    .greenline{
+        visibility: hidden;
+    }
+    .connect{
+        margin-top: 5%;
+        margin-left: 15%;
+    }
+    .green1{
+        font-size: medium;
+        color: lightgreen;
+    }
+    
+    .arrow{
+        position: fixed;
+        bottom: 0px;
+        right: 0px;
+        width: 7%;
+        margin-right: 15%;
+    }
+    .imagegallery:hover{
+        opacity: 0.7;
+    }
+}
+/*
+@media only screen and (min-width: 600px){
+    .fb{
+        margin-left: 35%;
+    }
+    .button{
+        margin-left: 13%;
+        margin-right: 11%;
+    }
+    .numbers div{
+        display: inline-block;
+        margin-right: 5%;
+    }
+    .div3{
+        margin-left: 15%;
+    }
+    .div2,.div4{
+        margin-left: 30%;
+    }
+    .numbers img{
+        width: 20%;
+        margin-left: 30%;
+    }
+    .text{
+        margin-left: 5%;
+    }
+    .div1,.div2,.div3,.div4{
+        width: 50%;
+        padding-top: 10%;
+    }
+    .doing{
+        margin-left: 13%;
+        
+    }
+    .activity1,.activity2,.activity3,.activity4{
+        width:80% ;
+        margin-top: 5%;
+    }
+    .mission{
+        width: 100%;
+    }
+    .hepatitis{
+        width: 45%;
+    }
+    .events{
+        width: 100%;
+    }
+    .links{
+        margin-left: 13%;
+        width: 100%;
+    }
+    .phone{
+        width: 100%;
+    }
+    .connect{
+        margin-left: 13%;
+        margin-top: 5%;
+    }
+    .last{
+        margin-top: 2%;
+    }
+    .arr img{
+        width: 6%;
+        float: right;
+      
+    }   
+}*/
+
+@media only screen and (min-width: 1019px){
+    body{
+        background-color: whitesmoke;
+    }
+    .navbar-brand img{
+        width: 40%;
+        margin-left: 15%;    
+    
+    }
+    .dropdown-menu a:hover{
+        background-color: cadetblue;
+    }
+    
+    
+    .icons{
+        background-color:#316dc3;
+        color:white;
+        padding-top: 5px;
+        text-align: center;
+        font-size: medium;  
+        padding-bottom: 7px;
+       
+    }
+    
+    .millions{
+        float: left;
+        margin-left: 15%;
+    }
+    
+    .fb{
+        float: left;
+        padding: 4px;
+        width: 30px;
+        margin-left: 5%;
+    }
+    .others{
+        float: left;
+        padding: 4px;
+        width: 30px;
+    }
+    
+    .icons button{
+        padding-bottom: 4px;
+        padding-top: 4px;
+        cursor: pointer;
+        font-size: small; 
+    }
+    .nav-link{
+    
+        
+        background-color: #316dc3;
+        
+        border-radius: 2cm;
+    }
+    .nav-item{
+        margin-left: 6%;
+        
+    }
+    #navbarSupportedContent a{
+        color: white;
+        
+    }
+    
+    
+    
+    
+    div.saylani{
+        width: 100%;
+    }
+    .line{
+        font-size: medium;
+        background-color:#316dc3 ;
+        color: white;
+        margin-left: 10%;
+        padding: 5px 5px 5px 5px;
+        margin-right: 10%;
+        text-align: center;
+    }
+    .blue{
+        color: #316dc3;
+        font-weight: bold;
+        font-size: xx-large;
+        
+    }
+    .green{
+        color: green;
+        font-weight: bold;
+        font-size: xx-large;
+        
+    }
+    h1{
+        text-align: center;
+    }
+    .imagegallery:hover{
+        opacity: 0.7;
+    }
+    
+    
+    .p1{
+        font-size: large;
+        margin-left: 15%;
+        margin-right: 15%;
+        color: gray;
+        animation-direction: reverse;
+    }
+    
+    .lightgreen{
+        color: yellowgreen;
+        font-size: x-large;
+    }
+    .numbers{
+    
+        background-color: #316dc3;
+        color: white;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    } 
+    .div1,.div2,.div3,.div4{
+        display: inline-block;
+        width: 20%;
+    }
+    .div1{
+        margin-left: 13%;
+        
+    }
+    
+    
+    .numbers img{
+        width: 15%;
+        margin-left: 34%;
+    }
+    .num{
+        font-size: 300%;
+        padding-left: 17%;
+    
+    }
+    .text{
+        margin-left: 5%;
+        font-size: medium;
+    }
+    h2{
+        text-align: center;
+    }
+    .doing {
+        margin-left: 14%;
+    
+    }
+    .activity1{
+        background-color:white;
+        display: inline-block;
+        font-size: x-large;
+        padding-left: 6%;
+        padding-top: 5%;
+        padding-right: 6%;
+        padding-bottom: 5%;
+        margin-left: 2%;
+        text-align: center;
+        border-style: groove groove;
+        border-color:whitesmoke;
+        border-width: thin;
+        box-shadow:2px 2px 15px grey;
+    }
+    .activity2{
+        background-color:white;
+        display: inline-block;
+        font-size: x-large;
+        padding-left: 9%;
+        padding-top: 5%;
+        padding-right: 9%;
+        padding-bottom: 5%;
+        margin-left: 2%;
+        text-align: center;
+        border-style: groove groove;
+        border-color:whitesmoke;
+        border-width: thin;
+        box-shadow:2px 2px 15px grey;
+    }
+    
+    .activity3{
+        background-color:white;
+        display: inline-block;
+        font-size: x-large;
+        padding-left: 7%;
+        padding-top: 5%;
+        padding-right: 7%;
+        padding-bottom: 5%;
+        margin-left: 2%;
+        text-align: center;
+        border-style: groove groove;
+        border-color:whitesmoke;
+        border-width: thin;
+        box-shadow:2px 2px 15px grey;
+    }
+    .activity4{
+        background-color:white;
+        display: inline-block;
+        font-size: x-large;
+        padding-left: 8%;
+        padding-top: 5%;
+        padding-right: 8%;
+        padding-bottom: 5%;
+        margin-left: 2%;
+        text-align: center;
+        border-style: groove groove;
+        border-color:whitesmoke;
+        border-width: thin;
+        box-shadow:2px 2px 15px grey;
+    }
+    .mission{
+        font-size: x-large;
+        padding-left: 15%;
+        color: #316dc3;
+        background-color: lavender;
+        padding-top: 3%;
+        font-weight: bold;
+        width: 70%;
+        padding-bottom: 4%;
+    }
+    .hepatitis{
+        font-size: large;
+        font-weight: lighter;
+        color: #316dc3;
+        border-style: groove groove;
+        border-width: thin;
+        width: 40%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        margin-left: 1%;
+        display: inline-block;
+        background-color:lightcyan;
+        padding-left: 3%;
+    }
+    .events,.mission{
+        display: inline-block;
+    }
+    .events{
+        float: right;
+        padding-right: 7%;
+        font-size: x-large;
+        padding-top: 3%;
+        padding-left: 2%;
+        color: #316dc3;
+        background-color:lightcyan;
+        font-weight: bold;
+        width: 30%;
+        padding-bottom: 1.5%;
+    
+        
+    }
+    .texting{
+        font-weight: lighter;
+        color: black;
+        font-size: medium;
+    }
+    
+    .imagegallery {
+        width: 15%;
+        margin-left: 3px; 
+    }
+    .gallery {
+        margin-left: 16%;
+    }
+    h3{
+        text-align: center;
+    }
+    
+    .Head{
+        background-color:lightgrey;
+    }
+    .phone img{
+        width: 3%;
+    
+    }
+    .phone,.links,.connect{
+        display: inline-block;
+    }
+    .links{
+        font-size: x-large;
+        font-weight: bold;
+        color:black;
+        display: inline-block;
+        width: 25%;
+    }
+    .greenline{
+        line-height: 0rem; 
+    }
+    
+    .phone{
+        padding-left: 15%;
+        padding-top: 8%;
+        padding-bottom: 8%;
+        display: inline-block;
+        width: 45%;
+    
+    }
+    
+    .connect{
+        font-size: x-large;
+        font-weight: bold;
+        color:black; 
+        display: inline-block;  
+    }
+    .connect img{
+        width: 30px;
+        border-radius: 2cm;
+    }
+    .last{
+        background-color: #316dc3;
+        color: white;
+        padding-left: 12%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        font-size: small;
+        
+    }
+    .arrow{
+        position: fixed;
+        bottom: 0px;
+        right: 0px;
+        width: 50px; 
+        margin-right: 3%; 
+          
+    }
+    .green1{
+        font-size: medium;
+        color: lightgreen;
+    }
+    .dropdown-menu a:hover{
+        background-color: cadetblue;
+    }
+    
+}
